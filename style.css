@@ -23,3 +23,15 @@ li a:hover {
   background-color: #555;
   color: white;
 }
+
+/* adding image div*/
+
+img:hover{
+  border: 10px dashed green;
+  opacity: .5;
+  height: 20px;
+}
+
+#pop:hover {
+  height: 500px;
+}
