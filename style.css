@@ -35,3 +35,8 @@ img:hover{
 #pop:hover {
   height: 500px;
 }
+
+#sign:hover {
+  border: 5px dashed gold;
+  height: 20px;
+}
